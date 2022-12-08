@@ -22,9 +22,9 @@
 		</dependency>
 
 	</dependencies>
-	
-		<build>
-		<finalName>s3-transfer-files</finalName>
+
+	<build>
+		<finalName>cloudfront-signedurl-generator</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
